@@ -7,7 +7,22 @@ Users have the chance to play against the Computer, which picks random options b
 
 ## How to Play
 
- it has three possible outcomes: a draw, a win or a loss. A player who decides to play rock will beat the Computer, which has chosen scissors ("rock crushes scissors" or "breaks scissors" or sometimes "blunts scissors", but will lose to one who has played paper ("paper covers rock"); a play of paper will lose to a play of scissors ("scissors cuts paper"). If both players choose the same shape, the game is tied and is usually replayed to break the tie.
+ It has three possible outcomes: a draw, a win or a loss. A player who decides to play rock will beat the Computer, which has chosen scissors ("rock crushes scissors" or "breaks scissors" or sometimes "blunts scissors", but will lose to one who has played paper ("paper covers rock"); a play of paper will lose to a play of scissors ("scissors cuts paper"). If both players choose the same shape, the game is tied and is usually replayed to break the tie.
+
+
+ ## Features
+
+ User plays against Computer
+ Gives Users the options to start again regardless of a win or a loose
+
+ ### Validating Testing
+ ###### Pep8
+ No errors were returned from pep8online.com
+
+ 
+ 
+
+
 
 
 
